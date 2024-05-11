@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resource HUB</title>
+</head>
+
+<body>
+    <div>
+        <h1>1. Machine learning:</h1>
+
+        <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/i_LwzRVP7bg?si=8w3zsFih2yJeCcZq&amp;start=16"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Quick paced introduction to Machine learning concepts with interesting and interactive methods .Very useful
+            for beginners</h3>
+        <a href="https://youtu.be/i_LwzRVP7bg?si=Zt4TGf_bjX2OVGYl">Direct link to video</a>
+    </div>
+    <div>
+        <h1>2.Unreal engine 5 guide:</h1>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/k-zMkzmduqI?si=Ergsk9Fa1-JE0KeZ"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>Absolute underrated guide to unreal engine 5 by unreal sensei. With ultimate basic to creating beautiful
+            landscape with real game mechanism.</h3>
+        <a href="https://youtu.be/k-zMkzmduqI?si=Ergsk9Fa1-JE0KeZ">link to the video</a>
+    </div>
+    <div>
+        <h1>3.Web development </h1>
+        <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/videoseries?si=WX0_aomj2j_X0laB&amp;list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w"
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <h3>One of the best ever starter to master guide to become a full fledged we developer by the one and only
+            "codewithharry".</h3>
+        <a href="https://youtube.com/playlist?list=PLu0W_9lII9agq5TrH9XLIKQvv0iaF2X3w&si=WX0_aomj2j_X0laB">Link to
+            playlist</a>
+    </div>
+    <div>
+        <h1>4.DSA in java</h1>
+        
+    </div>
+
+</body>
+
+</html>
